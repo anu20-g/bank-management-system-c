@@ -1,0 +1,1 @@
+# Bank Management System - Team 1\n\nCreate accounts and maintain deposits, withdrawals and balances.\n\n## Compilation and Run\n```bash\ngcc main.c -o app\n./app\n```\n
